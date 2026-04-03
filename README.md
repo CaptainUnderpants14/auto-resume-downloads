@@ -1,6 +1,7 @@
 # Auto Resume Downloads
 
 A lightweight Chrome extension that automatically resumes interrupted or paused downloads — no manual intervention needed.
+
 (!!!!!If this extention somehow failed to resume the download please make sure the downloading file is resumable in the first place)
 
 
